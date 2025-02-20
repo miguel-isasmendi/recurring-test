@@ -3,7 +3,7 @@
 ![image](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)
 
 This script is a command-line implementation of a new recurring donation
-feature for GoFundMe. We want donors to be able to specify a monthly recurring
+feature. We want donors to be able to specify a monthly recurring
 donation limit and make recurring donations of specified amounts to individual
 campaigns. This command-line interface accepts input
 from STDIN or from a file passed as an argument to the command-line tool
