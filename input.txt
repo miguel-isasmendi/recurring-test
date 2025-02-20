@@ -1,0 +1,8 @@
+
+Add Donor Greg $1000
+Add Donor Janine $100
+Add Campaign SaveTheDogs
+Add Campaign HelpTheKids
+Donate Greg Weekly SaveTheDogs $100
+Donate Greg Monthly HelpTheKids $200
+Donate Janine Monthly SaveTheDogs $50
