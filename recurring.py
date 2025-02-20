@@ -30,7 +30,7 @@ def process_commands_from_loading_file():
     parser = argparse.ArgumentParser(
         prog='recurring',
         epilog="Thanks for using %(prog)s! :)",
-        description="GFM recurring donations",
+        description="Recurring donations",
         add_help=True,
         allow_abbrev=True,
         )
